@@ -81,15 +81,9 @@ text-align: center;
 }
 .container p{
     color: black;
-    padding-top: 50px;
     font-size: 25px;
     margin: 60px;
     
-}
-
-.container2{
-    margin: 30px 20px;
-    border: 2px solid crimson;
 }
 
 .container3{
